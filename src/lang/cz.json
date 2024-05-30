@@ -1,0 +1,28 @@
+{
+  "pixAccountKYCVerify": {
+    "subject": "Bylo ověřeno KYC pro váš účet",
+    "title": "Vážený",
+    "body1": "Dobré zprávy!",
+    "body2": "Bylo ověřeno KYC pro váš účet.",
+    "body3": "Pokud jste tak dosud neučinili, navštivte nyní svůj portál pro:",
+    "depositLink": "Vložení prostředků",
+    "openAccountLink": "Otevření živého obchodního účtu",
+    "closing": "Customer Support Team"
+  },
+  "pixEmailVerify": {
+    "subject": "Pro dokončení registrace, klikněte na odkaz níže a ověřte Vaší emailovou adresu. Poté budete přesměrován do obchodního portálu.",
+    "title": "Vážený",
+    "body1": "Už jste skoro hotovi!",
+    "body2": "Pro dokončení registrace, klikněte na odkaz níže a ověřte Vaší emailovou adresu. Poté budete přesměrován do obchodního portálu",
+    "body3": "V případě problémů odpovězte na tento e-mail a my Vás kontaktujeme",
+    "closing1": "Úspěšné  obchodování!",
+    "closing2": "Tým spokojenosti zákazníků"
+  },
+  "PIXRiskDisclaimer": {
+    "risk_disclaimer_title": "Zřeknutí se rizik:",
+    "risk_disclaimer_body1": "CFD jsou složité nástroje, jejichž obchodování je spojeno s vysokým rizikem ztráty kvůli použité páce. Měli byste dobře zvážit, zda rozumíte, jak fungují CFD a zda si můžete dovolit podstoupit vysoké riziko ztráty vašich peněz. Nikdy nevkládejte částku vyšší, než jakou jste ochotni ztratit. Ztráty odborného klienta mohou být vyšší než jeho vklad. Přečtěte si prosím naše zásady upozornění na rizika a vyhledejte nezávislé profesionální poradenství, pokud tomu úplně nerozumíte. Tyto informace nejsou určeny/zamýšleny pro distribuci rezidentům určitých zemí/jurisdikcí, například rezidentům USA a zemí na seznamu Kanceláře pro kontrolu zahraničních aktiv amerického ministerstva financí (OFAC). Společnost má právo změnit.",
+    "risk_disclaimer_body2": "Prime Index Ltd je společnost registrovaná a licencovaná úřadem Mwali International Services Authority v Komorské unii jako mezinárodní obchodní společnost s registračním číslem HY00423265 a licenčním číslem T2023249.",
+    "risk_disclaimer_body3": "Sídlo společnosti je Moheli Corporate Services Ltd, P.B. 1257 Bonovo Road, Fomboni, Komory, KM. Prime Index je obchodní název Prime Index Ltd.",
+    "copyright": "Prime Index Group. Všechna práva vyhrazena."
+  }
+}

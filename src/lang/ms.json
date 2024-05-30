@@ -1,0 +1,28 @@
+{
+  "pixAccountKYCVerify": {
+    "subject": "KYC bagi akaun anda telah disahkan",
+    "title": "Yang dihormati",
+    "body1": "Berita baik!",
+    "body2": "KYC bagi akaun anda telah disahkan.",
+    "body3": "Jika anda belum berbuat demikian, layari portal sekarang untuk:",
+    "depositLink": "Mendepositkan dana",
+    "openAccountLink": "Membuka akaun dagangan Langsung",
+    "closing": "Customer Support Team"
+  },
+  "PIXRiskDisclaimer": {
+    "risk_disclaimer_title": "Penafian risiko:",
+    "risk_disclaimer_body1": "CFD ialah instrumen yang kompleks dan mempunyai risiko tinggi kehilangan wang dengan cepat disebabkan oleh leverage. Anda harus mempertimbangkan sama ada anda memahami cara CFD berfungsi dan sama ada anda mampu untuk mengambil risiko tinggi kehilangan wang anda. Jangan sekali-kali mendepositkan lebih daripada yang anda bersedia untuk kehilangan. Kerugian pelanggan profesional boleh melebihi deposit mereka. Sila lihat dasar amaran risiko kami dan dapatkan nasihat profesional bebas jika anda tidak faham sepenuhnya. Maklumat ini tidak diarahkan atau bertujuan untuk diedarkan kepada atau digunakan oleh penduduk negara/bidang kuasa tertentu termasuk, tetapi tidak terhad kepada, USA & OFAC. Syarikat mempunyai hak untuk mengubah senarai negara yang disebutkan di atas mengikut budi bicaranya sendiri.",
+    "risk_disclaimer_body2": "Prime Index Ltd ialah Syarikat yang didaftarkan dan dilesenkan oleh Mwali International Services Authority di Comoros Union sebagai Syarikat Perniagaan Antarabangsa dengan nombor pendaftaran HY00423265 dan Nombor Lesen T2023249.",
+    "risk_disclaimer_body3": "Pejabat berdaftar Syarikat ialah Moheli Corporate Services Ltd, P.B. 1257 Bonovo Road, Fomboni, Comoros, KM. Indeks Perdana ialah nama dagangan Prime Index Ltd.",
+    "copyright": "Prime Index Group. Hak Cipta Terpelihara."
+  },
+  "pixEmailVerify": {
+    "subject": "Klik pada pautan supaya kami tahu bahawa alamat e-mel anda adalah benar dan kami akan menghantar anda ke portal",
+    "title": "Yang dihormati",
+    "body1": "You're nearly done!",
+    "body2": "Click on the link so that we know your email address is real, and we'll send you to your portal.",
+    "body3": "Having trouble? Reply to this email and we'll give you a helping hand.",
+    "closing1": "Happy trading! Customer Support Team",
+    "closing2": "Customer Support Team"
+  }
+}

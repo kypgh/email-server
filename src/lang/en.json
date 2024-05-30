@@ -1,0 +1,167 @@
+{
+  "pixAccountKYCVerify": {
+    "subject": "Your account has been KYC verified",
+    "title": "Dear",
+    "body1": "Good news!",
+    "body2": "Your account has been KYC verified.",
+    "body3": "If you haven't already done so, visit your portal now to:",
+    "depositLink": "Deposit funds",
+    "openAccountLink": "Open a Live trading account",
+    "closing": "Customer Support Team"
+  },
+  "pixEmailVerify": {
+    "subject": "Click on the link so that we know your email address is real, and we'll send you to your portal",
+    "title": "Dear",
+    "body1": "You're nearly done!",
+    "body2": "Click on the link so that we know your email address is real, and we'll send you to your portal.",
+    "body3": "Having trouble? Reply to this email and we'll give you a helping hand.",
+    "closing1": "Happy trading! Customer Support Team",
+    "closing2": "Customer Support Team"
+  },
+  "PIXRiskDisclaimer": {
+    "risk_disclaimer_title": "Risk disclaimer:",
+    "risk_disclaimer_body1": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. Never deposit more than you are prepared to lose. Professional client's losses can exceed their deposit. Please see our risk warning policy and seek independent professional advice if you do not fully understand. This information is not directed or intended for distribution to or use by residents of certain countries/jurisdictions including, but not limited to, USA & OFAC. The Company holds the right to alter the aforementioned list of countries at its own discretion.",
+    "risk_disclaimer_body2": "Prime Index Ltd is a Company registered and licensed by Mwali International Services Authority in Comoros Union as an International Business Company with registration number HY00423265 and License Number T2023249.",
+    "risk_disclaimer_body3": "The registered office of the Company is Moheli Corporate Services Ltd, P.B. 1257 Bonovo Road, Fomboni, Comoros, KM. Prime Index is a trading name of Prime Index Ltd.",
+    "copyright": "Prime Index Group. All Rights Reserved."
+  },
+  "tioRiskDisclaimer": {
+    "risk_disclaimer_title": "Risk disclaimer:",
+    "risk_disclaimer_body1": "CFDs are complex instruments and come with a high risk of losing money rapidly due to leverage. You should consider whether you understand how CFDs work and whether you can afford to take the high risk of losing your money. Never deposit more than you are prepared to lose. Professional client's losses can exceed their deposit. Please see our risk warning policy and seek independent professional advice if you do not fully understand. This information is not directed or intended for distribution to or use by residents of certain countries/jurisdictions including, but not limited to, USA & OFAC. The Company holds the right to alter the aforementioned list of countries at its own discretion.",
+    "risk_disclaimer_body2": "TIO Markets Ltd. is a Company registered in Saint Vincent and the Grenadines as an International Business Company with registration number 24986 IBC 2018.",
+    "risk_disclaimer_body3": "The registered office of the Company is Suite 305, Griffith Corporate Center, Beachmont, P.O. Box 1510, Kingstown, Saint Vincent and the Grenadines. TIO Markets Ltd. is authorised by Mwali International Services Authority in Comoros Union with license number T2023224 with registered office at Moheli Corporate Services Ltd, P.B. 1257 Bonovo Road, Fomboni, Comoros, KM. TIOmarkets is a trading name of TIO Markets Ltd.",
+    "copyright": "TIO Markets Ltd. All Rights Reserved."
+  },
+  "pixForgotPasswordMembersAreaEmail": {
+    "subject": "Request to reset members area password",
+    "title": "Dear",
+    "body1": "Click the link below to reset your password:",
+    "body2": "Click here",
+    "body3": "If you didn't request a password change, please reply to this email so that we can investigate what happened",
+    "closing": "Kind Regards"
+  },
+  "tioAccountKYCVerify": {
+    "subject": "Your account has been KYC verified",
+    "title": "Dear",
+    "body1": "Good news!",
+    "body2": "Your account has been KYC verified.",
+    "body3": "If you haven't already done so, visit your portal now to:",
+    "body4": "Deposit funds",
+    "body5": "Open a Live trading account",
+    "body6": "Download MT4 or MT5 from our",
+    "body7": "download centre",
+    "body8": "We wish to inform you that, having examined your application (submitted to us through our website on",
+    "body9": "and the subsequent identification and due diligence documents and information provided and being available to us, it is with great pleasure that we accept you as a Client of ",
+    "body10": "(hereinafter, the Company).",
+    "body11": "Our relationship and all trading activity between us will be governed under the Client Agreement and the following documents:  Client Categorisation Policy, Investor Compensation Fund, Summary of Conflicts of Interest Policy, Summary Best Interest and Order Execution Policy, Risk Disclosure and Warnings Notice, Complaints Procedure for Clients, which are all found on our website, as amended from time to time, which will be binding on you and us and with which you agreed when you submitted your application to us.",
+    "body12": "In addition, please note that, on the basis of the information provided to us by you or made available to us and on the method of categorisation we use, we have categorised you as a Retail Client (according to the Provision of Investment Services, the Exercise of Investment Activities, the Operation of Regulated Markets and Other Related Matters of Law 87(I)/2017, hereinafter, the Law) and will treat you as such under the Law when providing investment services to you.",
+    "body13": "Further to the above, please note that you have the right to request to change your categorisation while the Company reserves the right to reject such request for Professional treatment. Should you wish to do so, you may fill in the Application to Change Client Status, found on our website or you may direct your request to:",
+    "body14": "For more information on the categories of Clients, the method of categorisation, your rights and procedure to change categorisation and the limitations to the level of protection for each category, please refer to the document Client Categorisation found on our website",
+    "body15": "We wish you a successful and profitable trading.",
+    "body16": "We always remain at your disposal.",
+    "closing1": "Happy trading!",
+    "closing2": "Customer Support Team",
+    "closing_tioeu": "Yours Sincerely,"
+  },
+  "tioEmailKYCRejected": {
+    "subject": "KYC reject",
+    "intro": "KYC document rejected",
+    "title": "Dear",
+    "body1": "Your KYC documents have been rejected.",
+    "body2": "If you have any questions, please contact our support team.",
+    "closing": "Customer Support Team"
+  },
+  "tioEmailVerify": {
+    "subject": "Verify your email",
+    "title": "Dear",
+    "body1": "You're nearly done!",
+    "body2": "Click on the link so that we know your email address is real, and we'll send you to your portal.",
+    "body3": "Having trouble? Reply to this email and we'll give you a helping hand.",
+    "closing1": "Happy trading!",
+    "closing2": "Customer Support Team"
+  },
+  "tioForgotPasswordMt5": {
+    "subject": "Reset password for trading account",
+    "title": "Dear",
+    "body1": "Your request to reset your trading account password for account number ",
+    "body2": "has been successful.",
+    "body3": "Your new password is",
+    "body4": "Account Number:",
+    "body5": "Platform:",
+    "body6": "Server:",
+    "body7": "If you didn't request a password change, please reply to this email so that we can investigate what happened.",
+    "closing": "Kind Regards,"
+  },
+  "tioForgotPasswordMembersArea": {
+    "subject": "Request to reset members area password",
+    "title": "Dear",
+    "body1": "Click the link below to reset your password:",
+    "body2": "Click here",
+    "body3": "If you didn't request a password change, please reply to this email so that we can investigate what happened",
+    "closing": "Kind Regards"
+  },
+  "tioKYCNotifications": {
+    "subject": "KYC Notification",
+    "intro1": "You have",
+    "intro2": "days left to upload your KYC documents.",
+    "title": "Dear",
+    "body1": "Reminder",
+    "body2": "To verify your account, please upload your KYC documents.",
+    "closing": "Customer Support Team"
+  },
+  "tioMt5AccountCreationEmailData": {
+    "subject": "You've opened a trading account on MetaTrader!",
+    "title": "Dear",
+    "body1": "You've opened a trading account on MetaTrader!",
+    "body2": "Please save these details as you will need them to log into your platform.",
+    "body3": "Account Number:",
+    "body4": "Password:",
+    "body5": "Here is a reminder of the account type you chose",
+    "body6": "Account Type:",
+    "body7": "Currency:",
+    "body8": "Leverage:",
+    "body9": "PLatform:",
+    "body10": "Server:",
+    "closing1": "Happy trading!",
+    "closing2": "Customer Support Team"
+  },
+  "tioRequestAcknowledgedEmail": {
+    "subject": "request received",
+    "intro1": "Your",
+    "intro2": "request has been received",
+    "title": "Dear",
+    "body1": "We have recevied your request with the following details:",
+    "body2": "Our team will review your request and get back to you soon.",
+    "closing": "Customer Support Team"
+  },
+  "tioRequestApproveEmail": {
+    "subject": "Request approve email",
+    "intro": "Your request has been approved",
+    "title": "Dear",
+    "body1": "Your request has been approved!",
+    "closing": "Customer Support Team"
+  },
+  "tioRequestDeclineEmail": {
+    "subject": "KYC documents upload",
+    "intro": "Upload KYC documents",
+    "title": "Dear",
+    "body1": "Your request has been declined!",
+    "closing": "Customer Support Team"
+  },
+  "tioUploadKYCDocument": {
+    "subject": "KYC documents upload",
+    "intro": "Upload KYC documents",
+    "title": "Dear",
+    "body1": "If you haven't already done so, visit your portal now to:",
+    "closing": "Customer Support Team"
+  },
+  "tioWithdrawEmailProcessed": {
+    "subject": "Withdrawal Processed",
+    "intro": "Your withdrawal request has been processed successfully",
+    "title": "Dear",
+    "body1": "Your withdrawal request for",
+    "body2": "from account",
+    "body3": "has been successfully processed.",
+    "closing": "Customer Support Team"
+  }
+}
